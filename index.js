@@ -201,3 +201,6 @@ app.listen(port, () => {
 
 
    
+//http://localhost:7000/rooms -  the room details.
+//http://localhost:7000/rooms/book - the booking details
+//http://localhost:7000/rooms/customers 
